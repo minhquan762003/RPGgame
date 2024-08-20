@@ -1,0 +1,124 @@
+swordAnim.png
+size: 108, 249
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+behind
+  rotate: false
+  xy: 0, 214
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: 1
+behind
+  rotate: false
+  xy: 35, 214
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: 2
+left
+  rotate: false
+  xy: 0, 0
+  size: 54, 30
+  orig: 54, 30
+  offset: 0, 0
+  index: 1
+left
+  rotate: false
+  xy: 54, 0
+  size: 54, 30
+  orig: 54, 30
+  offset: 0, 0
+  index: 2
+left
+  rotate: false
+  xy: 0, 30
+  size: 54, 30
+  orig: 54, 30
+  offset: 0, 0
+  index: 3
+left
+  rotate: false
+  xy: 54, 30
+  size: 54, 30
+  orig: 54, 30
+  offset: 0, 0
+  index: 4
+left
+  rotate: false
+  xy: 0, 60
+  size: 54, 30
+  orig: 54, 30
+  offset: 0, 0
+  index: 5
+left
+  rotate: false
+  xy: 54, 60
+  size: 54, 30
+  orig: 54, 30
+  offset: 0, 0
+  index: 6
+right
+  rotate: false
+  xy: 0, 90
+  size: 54, 30
+  orig: 54, 30
+  offset: 0, 0
+  index: 1
+right
+  rotate: false
+  xy: 54, 90
+  size: 54, 30
+  orig: 54, 30
+  offset: 0, 0
+  index: 2
+right
+  rotate: false
+  xy: 0, 120
+  size: 54, 30
+  orig: 54, 30
+  offset: 0, 0
+  index: 3
+right
+  rotate: false
+  xy: 54, 120
+  size: 54, 30
+  orig: 54, 30
+  offset: 0, 0
+  index: 4
+right
+  rotate: false
+  xy: 0, 150
+  size: 54, 30
+  orig: 54, 30
+  offset: 0, 0
+  index: 5
+right
+  rotate: false
+  xy: 54, 150
+  size: 54, 30
+  orig: 54, 30
+  offset: 0, 0
+  index: 6
+front
+  rotate: false
+  xy: 34, 180
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: 1
+front
+  rotate: false
+  xy: 69, 180
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: 2
+stay
+  rotate: false
+  xy: 0, 180
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1

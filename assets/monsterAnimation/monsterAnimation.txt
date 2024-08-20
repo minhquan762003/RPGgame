@@ -1,0 +1,68 @@
+monsterAnimation.png
+size: 324, 32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+behind
+  rotate: false
+  xy: 0, 0
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: 1
+behind
+  rotate: false
+  xy: 36, 0
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: 2
+front
+  rotate: false
+  xy: 72, 0
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: 1
+front
+  rotate: false
+  xy: 108, 0
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: 2
+left
+  rotate: false
+  xy: 144, 0
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: 1
+left
+  rotate: false
+  xy: 180, 0
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: 2
+right
+  rotate: false
+  xy: 216, 0
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: 1
+right
+  rotate: false
+  xy: 252, 0
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: 2
+stay
+  rotate: false
+  xy: 288, 0
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
